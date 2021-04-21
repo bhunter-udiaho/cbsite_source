@@ -1,5 +1,5 @@
 ---
-permalink: bylaws
+permalink: bylaws/
 title: Bylaws
 layout: about
 toc: true

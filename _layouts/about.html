@@ -5,10 +5,10 @@ layout: default
   <div class="row">
     <div class="col-md-9">
 {{content}}
-    </div>
+    </div>{% if page.toc == true %}
     <div class="col-md-3 d-none d-md-block">
  {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu sticky-top bg-light p-3 border" skip_no_ids=false %}
-    </div>
+    </div>{% endif %}
 </div>
 </div>
 

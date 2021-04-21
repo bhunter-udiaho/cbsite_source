@@ -102,8 +102,8 @@ navbar-background: bg-dark
 bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
-base-font-size: 1.2em
+base-font-size: 1.3em
 text-color: "#191919"
 link-color: "#17a2b8"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+base-font-family: Oswald # comment out for bootstrap defaults. e.g. Roboto
+font-cdn: <link rel="preconnect" href="https://fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet"> # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
