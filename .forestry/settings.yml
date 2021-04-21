@@ -15,9 +15,6 @@ sections:
 - type: document
   path: pages/bylaws.md
   label: Bylaws
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: jekyll-pages
   label: Pages
   create: all
