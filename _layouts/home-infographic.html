@@ -3,12 +3,12 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] -%}
 <div class="row">
-  <div class="col-md-10">
+  <div class="col-md-9">
 
     {{content }}
 
    </div>
-  <div class="col-md-4">  
+  <div class="col-md-3">  
 
    
   </div>
@@ -16,8 +16,8 @@ layout: page
     <h2 class="mt-5">Member Libraries:</h2>
  
     <div class="row my-5 ">
-      {% for org in site.data.orgs%}<div class="col-xs-12 col-md-6 my-5">
-    <a href="{{org.link}}" target="_blank" class="m-3 text-center p-3"  ><img class=" {%if org.img == 'isa.png' or org.img == 'isu.png'%}bg-dark p-2 {% endif %}"  src="/assets/img/logos/{{org.img}}" style="max-height:100px;" title="{{org.title}} logo"></a>
+      {% for org in site.data.orgs%}<div class="col-xs-12 col-md-3 text-center">
+    <a href="{{org.link}}" class="py-5"  ><img  src="/assets/img/logos/{{org.img}}" style="max-height:115px;" title="{{org.title}} logo"></a>
     </div>
     {%endfor%}
   
