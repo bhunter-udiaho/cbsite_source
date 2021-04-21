@@ -2,3 +2,72 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+.sidebar__right {
+    margin-bottom: 1em;
+  
+    @media (min-width: 768px) {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 200px;
+      margin-right: 2em;
+      padding-left: 1em;
+      z-index: 10;
+  
+      &.sticky {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 2em;
+        float: right;
+      }
+    }
+  
+   
+  }
+
+  
+.toc__menu {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    list-style: none;
+    font-size: 16px;
+  
+    @media (min-width: 768px) {
+      font-size: 14px;
+    }
+  
+    a {
+      display: block;
+      padding: 0.25rem 0.75rem;
+      color: black;
+      font-weight: bold;
+      line-height: 1.5;
+  
+      &:hover {
+        color: inherit;
+      }
+    }
+  
+    li ul > li a {
+      padding-left: 1.25rem;
+      font-weight: normal;
+    }
+  
+    li ul li ul > li a {
+      padding-left: 1.75rem;
+    }
+  
+    li ul li ul li ul > li a {
+      padding-left: 2.25rem;
+    }
+  
+    li ul li ul li ul li ul > li a {
+      padding-left: 2.75rem;
+    }
+  
+    li ul li ul li ul li ul li ul > li a {
+      padding-left: 3.25rem
+    }
+  }
