@@ -5,9 +5,16 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: pages/bylaws.md
-  label: bylaws
+  path: index.md
+  label: Home Page
   match: "**/*"
+- type: document
+  path: pages/initiatives.md
+  label: Initiatives
+  match: "**/*"
+- type: document
+  path: pages/bylaws.md
+  label: Bylaws
 - type: jekyll-posts
   label: Posts
   create: all
