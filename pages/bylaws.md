@@ -1,12 +1,9 @@
 ---
 permalink: bylaws/
-title: Bylaws
+title: Bylaws of the Network of Idaho Academic Libraries
 layout: about
 toc: true
-
 ---
-# **Bylaws of the Network of Idaho Academic Libraries**
-
 _Accepted 4/19/2021_
 
 ### **Article I.** Name
