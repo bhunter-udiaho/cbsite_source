@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: pages/bylaws.md
+  label: bylaws
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
