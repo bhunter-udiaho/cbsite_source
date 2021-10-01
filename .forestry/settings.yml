@@ -6,10 +6,19 @@ webhook_url:
 sections:
 - type: document
   path: index.md
-  label: Home Page
+  label: Home
 - type: document
   path: pages/initiatives.md
   label: Initiatives
+- type: document
+  path: pages/membership.md
+  label: Membership
+- type: document
+  path: pages/calendar.md
+  label: Calendar
+- type: document
+  path: pages/contact.md
+  label: Contact
 - type: document
   path: pages/bylaws.md
   label: Bylaws
