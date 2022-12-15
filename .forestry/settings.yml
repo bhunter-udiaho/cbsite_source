@@ -11,6 +11,10 @@ sections:
   path: pages/initiatives.md
   label: Initiatives
 - type: document
+  path: pages/standingroups.md
+  label: Standing Groups
+  match: "**/*"
+- type: document
   path: pages/membership.md
   label: Membership
 - type: document
