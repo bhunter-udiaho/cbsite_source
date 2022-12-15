@@ -11,6 +11,8 @@ The Digital Library of Idaho (DLoI) is a collection of digital libraries from ac
 {:.w-25}
 [![Digital Library of Idaho](/objects/dloi.png "Digital Library of Idaho Logo")](https://www.digitallibraryofidaho.org/)
 
+***
+
 ## OER Standing Group
 
 The OER Standing Group brings together academic library staff who share an interest in advancing the awareness, adoption, and/or creation of open educational resources (OER) on their campuses.
@@ -25,6 +27,8 @@ Activities of the group may include:
 * Developing proposals for campus policy to support the adoption or creation of OER.
 * Partnering with student leaders and activists to advocate for greater OER adoption on
 * Other tasks and initiatives as identified by the group, including initiatives focused on other types of free and affordable course materials.
+
+***
 
 ## Special Collections & Archives Standing Group
 
