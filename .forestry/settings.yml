@@ -11,7 +11,7 @@ sections:
   path: pages/initiatives.md
   label: Initiatives
 - type: document
-  path: pages/standingroups.md
+  path: pages/standinggroups.md
   label: Standing Groups
 - type: document
   path: pages/membership.md
