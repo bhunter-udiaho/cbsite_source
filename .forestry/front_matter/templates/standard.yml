@@ -14,5 +14,3 @@ fields:
 - type: boolean
   name: toc
   label: toc
-pages:
-- pages/standing-groups.md
