@@ -2,7 +2,7 @@
 permalink: "/standinggroups.html"
 title: Standing Groups
 layout: about
-toc: false
+toc: true
 published: false
 
 ---
