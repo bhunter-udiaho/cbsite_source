@@ -30,7 +30,6 @@ Activities of the group may include:
 
 The Special Collections & Archives Standing Group brings together academic library personnel and other interested parties and community members who are building, curating, and maintaining special collections and archives in Idaho and the region.
 
-  
 **Charge:** Share information and expertise across Idaho libraries to better build and maintain special and archival collections and to find and act on potential synergies between institutions and collections.
 
 **Activities of the group may include:**
