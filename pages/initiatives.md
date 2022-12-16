@@ -13,7 +13,15 @@ The Digital Library of Idaho (DLoI) is a collection of digital libraries from ac
 
 ***
 
-## OER Standing Group
+## [NIAL OER Collections Repository](https://www.oercommons.org/groups/nial-oer-oa-collections-repository/12773/)
+
+NIAL's mission is to strengthen library services and resources offered by Idaho’s institutions of higher education. These collections of OER materials, hosted on OER Commons, serve as gathering places for OER resources produced by Idaho's universities and colleges.
+
+***
+
+## Standing Groups
+
+### OER Standing Group
 
 The OER Standing Group brings together academic library staff who share an interest in advancing the awareness, adoption, and/or creation of open educational resources (OER) on their campuses.
 
@@ -30,7 +38,7 @@ Activities of the group may include:
 
 ***
 
-## Special Collections & Archives Standing Group
+### Special Collections & Archives Standing Group
 
 The Special Collections & Archives Standing Group brings together academic library personnel and other interested parties and community members who are building, curating, and maintaining special collections and archives in Idaho and the region.
 
