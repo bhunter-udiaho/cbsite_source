@@ -19,8 +19,6 @@ NIAL's mission is to strengthen library services and resources offered by Idahoâ
 
 ***
 
-## Standing Groups
-
 ### OER Standing Group
 
 The OER Standing Group brings together academic library staff who share an interest in advancing the awareness, adoption, and/or creation of open educational resources (OER) on their campuses.
