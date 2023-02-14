@@ -7,7 +7,7 @@ toc: true
 ---
 _Accepted 4/19/2021_
 
-### **Article I.** Name
+### **Article I.** Names
 
 * **Section 1.** The name of this organization is the Network of Idaho Academic Libraries.
 
